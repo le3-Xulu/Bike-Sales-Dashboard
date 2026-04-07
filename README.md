@@ -33,8 +33,7 @@ Understanding customer behavior is essential for improving sales performance. Th
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](Pictures/Bikes-Sales-ACTUAL.png)
-![Dashboard](screenshots/dashboard1.png)
+Dashboard pictures uploaded (Bike Sale ACTUAL.png & dashboard1.png).
 
 ---
 
